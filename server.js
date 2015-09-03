@@ -1,4 +1,3 @@
-// Require node module & create a port
 var express = require('express');
 var app = express();
 var port = process.env.PORT || 8080;
