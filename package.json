@@ -1,5 +1,5 @@
 {
-  "name": "static_react_sds",
+  "name": "demo_slds_heroku",
   "version": "1.0.0",
   "description": "demo",
   "main": "server.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.soma.salesforce.com:ssuth/static_react_sds.git"
+    "url": "git@git.soma.salesforce.com:ssuth/demo_slds_heroku.git"
   },
   "author": "",
   "license": "ISC",
