@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.soma.salesforce.com:ssuth/demo_slds_heroku.git"
+    "url": "git@github.com:salesforce-ux/demo_slds_heroku.git"
   },
   "author": "",
   "license": "ISC",
